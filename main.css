@@ -1,0 +1,40 @@
+#games {
+    color: blueviolet;
+
+}
+
+#entretenimento {
+    color: blue;
+}
+
+#games {
+    width: 645px;
+}
+
+#entreteniment {
+    width: 645px;
+}
+h5 {
+    color: steelblue;
+}
+
+h3 {
+    color: palevioletred;
+}
+
+h1 {
+    color: goldenrod;
+}
+h2 {
+    color: blue;
+}
+
+#fontgame {
+    font-size: 90%;
+    font-weight: normal;
+}
+
+#fontentretenimento {
+    font-size: 90%;
+    font-weight: normal;
+}
